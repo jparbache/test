@@ -1,0 +1,3 @@
+teste
+
+agora eu consigo editar este arquivo pelo proprio gitHub
